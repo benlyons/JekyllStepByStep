@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+/.vs/slnx.sqlite
+/.vs/JekyllStepByStep/v15/.suo
+/.vs/config/applicationhost.config
